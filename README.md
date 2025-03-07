@@ -8,8 +8,9 @@ without the need to actually type every time the same files
 over and over. 
 
 Some things to consider are:
-	- Since the files are designed for kernel, some features may 
-		not work depending on the distribution
-	- The make files must not be uploaded to the git repository 
-		as these would cause problem due to the different distributions and versions
+- Since the files are designed for kernel, some features may not work depending on the distribution
+- The make files must not be uploaded to the git repository as these would cause problem due to the different distributions and versions
 
+The code here is mostly replicated from the source
+https://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html#AEN374 
+Ownership belongs to the authors.
